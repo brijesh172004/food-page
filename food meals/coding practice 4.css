@@ -1,0 +1,30 @@
+.image {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.background {
+    background-color: burlywood;
+    color:darkslateblue;
+    padding: 15px;
+}
+.heading {
+
+    font-family: "Roboto"
+    font-size: 30px;
+}
+
+.paragraph {
+    font-size: 20px;
+    font-family: "Roboto";
+}
+
+.button {
+    background-color: white;
+    color: black;
+    border-width: 0px;
+    border-radius: 5px;
+    height: 40px;
+    width: 120px;
+}
